@@ -1,0 +1,4 @@
+erublecoin
+==========
+
+coin of Russa
